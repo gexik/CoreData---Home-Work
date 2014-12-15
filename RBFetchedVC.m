@@ -8,6 +8,7 @@
 
 #import "RBFetchedVC.h"
 #import "RBManager.h"
+
 @interface RBFetchedVC ()
 
 @end
